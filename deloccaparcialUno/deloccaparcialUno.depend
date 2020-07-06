@@ -1,0 +1,94 @@
+# depslib dependency file v1.0
+1593987758 source:c:\users\franc\desktop\parcial2v2\deloccaparcialuno\bicicletas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Bicicletas.h"
+
+1593988956 c:\users\franc\desktop\parcial2v2\deloccaparcialuno\bicicletas.h
+	"Tipos.h"
+	"Colores.h"
+	"Servicios.h"
+	"Clientes.h"
+	"Servicioss.h"
+
+1593983472 c:\users\franc\desktop\parcial2v2\deloccaparcialuno\tipos.h
+	"Servicios.h"
+
+1593983468 c:\users\franc\desktop\parcial2v2\deloccaparcialuno\colores.h
+	"Servicios.h"
+
+1593973348 source:c:\users\franc\desktop\parcial2v2\deloccaparcialuno\colores.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Colores.h"
+
+1593973208 source:c:\users\franc\desktop\parcial2v2\deloccaparcialuno\tipos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Tipos.h"
+
+1593988829 source:c:\users\franc\desktop\parcial2v2\deloccaparcialuno\servicios.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Servicios.h"
+
+1593988881 c:\users\franc\desktop\parcial2v2\deloccaparcialuno\servicios.h
+
+1594065336 source:c:\users\franc\desktop\parcial2v2\deloccaparcialuno\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Bicicletas.h"
+	"Tipos.h"
+	"Servicios.h"
+	"Trabajos.h"
+	"Informes.h"
+
+1593987804 c:\users\franc\desktop\parcial2v2\deloccaparcialuno\trabajos.h
+	"Tipos.h"
+	"Bicicletas.h"
+	"Colores.h"
+	"Servicios.h"
+
+1593989009 source:c:\users\franc\desktop\parcial2v2\deloccaparcialuno\trabajos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Trabajos.h"
+	"Bicicletas.h"
+	"Servicios.h"
+
+1593986941 source:c:\users\franc\desktop\parcial2v2\deloccaparcialuno\clientes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Clientes.h"
+
+1593986925 c:\users\franc\desktop\parcial2v2\deloccaparcialuno\clientes.h
+
+1593996759 source:c:\users\franc\desktop\parcial2v2\deloccaparcialuno\informes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Informes.h"
+	"Trabajos.h"
+
+1593996769 c:\users\franc\desktop\parcial2v2\deloccaparcialuno\informes.h
+	"Bicicletas.h"
+	"Tipos.h"
+	"Colores.h"
+	"Trabajos.h"
+
+1593996787 c:\users\franc\desktop\parcial2v2\deloccaparcialuno\servicioss.h
+	"Servicios.h"
+
+1593996800 source:c:\users\franc\desktop\parcial2v2\deloccaparcialuno\servicioss.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Servicioss.h"
+
